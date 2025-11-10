@@ -1,13 +1,7 @@
+DMAPLM: A Multimodal Pretrained Framework for Computational Drug Repositioning
 
+![DMAPLM Framework](C:\Users\ASUS\Desktop\DMAPLM\model.png)
 ````markdown
-# DMAPLM: A Multimodal Pretrained Framework for Computational Drug Repositioning
-
-<p align="center">
-  <img src="./model.png" alt="DMAPLM Framework" width="720"/>
-</p>
-
-
----
 
 ## Abstract
 Drug repositioning, also known as drug repurposing, refers to the identification of new therapeutic indications for existing drugs, providing an efficient and economical alternative to traditional drug research and development. Current computational drug repositioning models often face challenges related to data scarcity, heterogeneity, and limited generalizability, particularly in cold-start scenarios.  
