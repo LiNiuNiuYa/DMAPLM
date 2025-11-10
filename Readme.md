@@ -2,7 +2,10 @@
 ````markdown
 # DMAPLM: A Multimodal Pretrained Framework for Computational Drug Repositioning
 
-![DMAPLM Framework](model.png)
+<p align="center">
+  <img src="./model.png" alt="DMAPLM Framework" width="720"/>
+</p>
+
 
 ---
 
@@ -24,16 +27,6 @@ All processed data are stored under `dataset/appoved/`.
 
 ---
 
-## Environment Requirements
-
-| Library | Version |
-|----------|----------|
-| Python | 3.10.16 |
-| NumPy | 1.23.1 |
-| pandas | 2.2.3 |
-| scikit-learn | 1.1.2 |
-| SciPy | 1.15.2 |
-| torch | 1.13.1 + cu117 |
 
 ### Installation
 ```bash
@@ -44,7 +37,7 @@ pip install numpy==1.23.1 pandas==2.2.3 scikit-learn==1.1.2 scipy==1.15.2 torch=
 
 ---
 
-## 🚀 Run
+## Run
 
 ### Step 1: Generate Drug and Disease Embeddings
 
